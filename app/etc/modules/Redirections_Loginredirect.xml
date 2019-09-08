@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+
+<config>
+    <modules>
+        <Redirections_Loginredirect>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Redirections_Loginredirect>
+    </modules>
+</config>
